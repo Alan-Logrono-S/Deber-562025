@@ -31,6 +31,5 @@ public class Main {
         this.horario = horario;
         this.entrenador = entrenador;
         this.inscritos = new ArrayList<>(); }
-
-        public
+    }
 }

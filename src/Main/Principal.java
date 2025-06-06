@@ -12,7 +12,6 @@ public class Principal {
         ArrayList<Curso> cursos = new ArrayList<>();
         ArrayList<Participante> participantes = new ArrayList<>();
 
-        // Curso de ejemplo
         Curso cursoNatacion = new Curso("Natación Inicial", "Natación", 8, 15, "Lunes 10:00");
         cursos.add(cursoNatacion);
 
